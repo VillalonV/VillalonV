@@ -33,7 +33,7 @@ const Victor = {
   stack: {
     frontend: ["React", "Vite", "JavaScript", "HTML/CSS", "NUI"],
     backend: ["C","Python","Java","Lua", "QBCore", "oxmysql", "Server Callbacks", "Exports"],
-    tools: ["Git", "GitHub", "VS Code","Cursor",]
+    tools: ["Git", "GitHub", "VS Code", "Cursor"]
   },
 
   focus: "Construir sistemas, backends e interfaces que vão pro ar",
@@ -69,6 +69,7 @@ const Victor = {
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
   <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
   <img src="https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white" />
+  <img src="https://img.shields.io/badge/Cursor-000000?style=for-the-badge&logo=cursor&logoColor=white" />
 </p>
 
 ---
@@ -80,6 +81,7 @@ const Victor = {
 | **Frontend** | React + Vite, HTML/CSS, JavaScript, NUI/CEF, sistemas de design, menus e painéis interativos |
 | **Backend / Lógica** | C, Java, Python e Lua — lógica de servidor, APIs, callbacks, exports, validação e preços no servidor |
 | **Dados & Integrações** | MySQL para aplicações e backends — modelagem, consultas, persistência e integração entre serviços |
+| **Ferramentas & Fluxo** | Git, GitHub, VS Code e Cursor no dia a dia de versionamento, revisão e desenvolvimento assistido por IA |
 
 ---
 
@@ -104,6 +106,7 @@ const Victor = {
 [████████████████░░░░] React / NUI Development
 [██████████████░░░░░░] QBCore Framework
 [████████████░░░░░░░░] Server Architecture
+[███████████████░░░░░] Bayfield Economy System (Farm → Industry → Business)
 [██████████████████░░] Shipping FiveM Resources
 
 STATUS:
