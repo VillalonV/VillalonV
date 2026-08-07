@@ -64,7 +64,6 @@ const Victor = {
   <img src="https://img.shields.io/badge/QBCore-111827?style=for-the-badge" />
   <img src="https://img.shields.io/badge/FiveM-ea580c?style=for-the-badge" />
   <img src="https://img.shields.io/badge/MySQL%20%2F%20oxmysql-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
-  <img src="https://img.shields.io/badge/ox_lib-22c55e?style=for-the-badge" />
 </p>
 
 ### Tools
@@ -109,7 +108,6 @@ const Victor = {
 [████████████████░░░░] React / NUI Development
 [██████████████░░░░░░] QBCore Framework
 [████████████░░░░░░░░] Server Architecture
-[███████████████░░░░░] Bayfield Economy System (Farm → Industry → Business)
 [██████████████████░░] Shipping FiveM Resources
 
 STATUS:
