@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,100:38bdf8&height=200&section=header&text=VICTOR%20VILLALON&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Lua%20%E2%80%A2%20React%20%E2%80%A2%20QBCore%20%E2%80%A2%20FiveM%20Developer&descAlignY=58&descSize=18" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,100:38bdf8&height=200&section=header&text=VICTOR%20VILLALON&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Lua%20%E2%80%A2%20React%20%E2%80%A2%20QBCore%20%E2%80%A2%20Software%20Developer&descAlignY=58&descSize=18" />
 
 </div>
 
@@ -57,6 +57,9 @@ const Victor = {
 
 ### Backend / Lógica
 <p>
+  <img src="https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=black" />
+  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" />
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
   <img src="https://img.shields.io/badge/Lua-2C2D72?style=for-the-badge&logo=lua&logoColor=white" />
   <img src="https://img.shields.io/badge/QBCore-111827?style=for-the-badge" />
   <img src="https://img.shields.io/badge/FiveM-ea580c?style=for-the-badge" />
@@ -120,3 +123,5 @@ Never stop learning 🚀
 📍 Araraquara, SP — Brazil
 
 </div>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,100:38bdf8&height=120&section=footer" width="100%" />
