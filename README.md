@@ -27,17 +27,17 @@ STATUS: ONLINE 🚀
 ```javascript
 const Victor = {
   name: "Victor Villalon",
-  role: "Game Server Developer",
+  role: "Software Developer",
   location: "Araraquara, SP, Brazil 🇧🇷",
 
   stack: {
-    frontend: ["React", "Vite", "JavaScript", "HTML/CSS", "NUI / CEF"],
-    backend: ["Lua", "QBCore", "oxmysql", "Server Callbacks", "Exports"],
-    tools: ["Git", "GitHub", "VS Code", "ox_lib", "qb-target"]
+    frontend: ["React", "Vite", "JavaScript", "HTML/CSS", "NUI"],
+    backend: ["C","Python","Java","Lua", "QBCore", "oxmysql", "Server Callbacks", "Exports"],
+    tools: ["Git", "GitHub", "VS Code","Cursor",]
   },
 
-  focus: "Building RP server systems & NUI experiences",
-  passion: "Making roleplay servers feel alive 🚀"
+  focus: "Construir sistemas, backends e interfaces que vão pro ar",
+  passion: "Transformar ideias em software que funciona 🚀"
 }
 ```
 
@@ -77,9 +77,9 @@ const Victor = {
 
 | Área | O que eu uso no dia a dia |
 |---|---|
-| **Frontend** | React + Vite, HTML/CSS, JavaScript, NUI/CEF, design systems, menus e painéis interativos |
-| **Backend / Lógica** | Lua server/client, QBCore, callbacks, exports, validação e preços server-side |
-| **Dados & Integrações** | oxmysql, estoque/produção e supply chain |
+| **Frontend** | React + Vite, HTML/CSS, JavaScript, NUI/CEF, sistemas de design, menus e painéis interativos |
+| **Backend / Lógica** | C, Java, Python e Lua — lógica de servidor, APIs, callbacks, exports, validação e preços no servidor |
+| **Dados & Integrações** | MySQL para aplicações e backends — modelagem, consultas, persistência e integração entre serviços |
 
 ---
 
