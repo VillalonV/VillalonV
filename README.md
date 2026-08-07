@@ -77,10 +77,9 @@ const Victor = {
 
 | Área | O que eu uso no dia a dia |
 |---|---|
-| **Frontend** | React + Vite, HTML/CSS, JavaScript, NUI/CEF, design systems (Bayfield Glass), menus e painéis interativos |
-| **Backend / Lógica** | Lua server/client, QBCore (jobs, inventário, society), callbacks, exports, validação e preços server-side |
-| **Dados & Integrações** | oxmysql, estoque/produção, supply chain, PolyZone, qb-target, ox_lib |
-| **Arquitetura RP** | Economia (fazenda → indústria → negócios), permissões por cargo, upgrades e fluxos de gameplay |
+| **Frontend** | React + Vite, HTML/CSS, JavaScript, NUI/CEF, design systems, menus e painéis interativos |
+| **Backend / Lógica** | Lua server/client, QBCore, callbacks, exports, validação e preços server-side |
+| **Dados & Integrações** | oxmysql, estoque/produção e supply chain |
 
 ---
 
@@ -91,7 +90,6 @@ const Victor = {
 | 🌾 **bayfield-farming** | Sistema de fazendas e currais com produção agrícola, cards 3D no mundo, blips e integração direta com a cadeia industrial |
 | 🏭 **bayfield-industrial** | Supply chain completo (fazenda → indústria): estoque, produção, contratos, finanças e painel NUI glassmorphism |
 | 🍔 **bayfield-restaurantes** | Gestão de restaurante RP — cargos, cofre, estoque, cozinha, upgrades e painel NUI no padrão Bayfield Glass |
-| 🏎️ **bayfield-performance** | Loja de performance automotiva com NUI React, catálogo por categorias (motores, turbos, freios…) e checkout QBCore |
 | 🎉 **qb-eventmanager** | Sistema de eventos com zonas (PolyZone), blips, HUD de timer, comandos admin e votação de concurso de carros |
 | 🔧 **qb-partseller** | Vendedor NPC de autopeças com frontend NUI em React/Vite, integração QBCore e preços server-side |
 | 🖥️ **Bayfield Glass UIs** | Design system de interfaces NUI (React/Vite + HTML/CSS) — menus, painéis e banking com visual dark/cyan consistente |
